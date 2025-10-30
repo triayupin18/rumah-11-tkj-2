@@ -1,7 +1,14 @@
-html
-   <!DOCTYPE html>
-   <html lang="id">
+<!DOCTYPE html>
+   <html lang="en">
    <head>
+         <title>Image</title>
+   </head>
+   <body>
+         <img src="butterfly.jpg"
+         width="300px" height="200px">
+   </body>
+   </html>
+   </head>
      <meta charset="UTF-8">
      <title>Profil Siswa</title>
    </head>
